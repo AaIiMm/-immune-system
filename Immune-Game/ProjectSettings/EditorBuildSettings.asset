@@ -8,3 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: c5ff1124f8ab34095bdb8d0c96d538c8
+  - enabled: 1
+    path: Assets/Scenes/Body.unity
+    guid: 88a11e003a1334fb699c74044fbe6547
+  - enabled: 1
+    path: Assets/Scenes/Arms.unity
+    guid: abc3140752a3b496581fef020449a84d
+  - enabled: 1
+    path: Assets/Scenes/Legs.unity
+    guid: cd74c57de463642cfa001903391f9be1
+  - enabled: 1
+    path: Assets/Scenes/Brain.unity
+    guid: 360089ff172254b05bc39db075d72b0e
